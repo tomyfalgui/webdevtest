@@ -1,0 +1,3 @@
+[submodule "webdevtestserver"]
+	path = webdevtestserver
+	url = https://github.com/tomyfalgui/webdevtestserver.git
